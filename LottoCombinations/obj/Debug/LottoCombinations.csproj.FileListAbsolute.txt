@@ -1,0 +1,8 @@
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\bin\Debug\LottoCombinations.exe.config
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\bin\Debug\LottoCombinations.exe
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\bin\Debug\LottoCombinations.pdb
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\obj\Debug\LottoCombinations.csproj.AssemblyReference.cache
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\obj\Debug\LottoCombinations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\obj\Debug\LottoCombinations.csproj.CoreCompileInputs.cache
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\obj\Debug\LottoCombinations.exe
+C:\Users\Elad\source\repos\LottoCombinations\LottoCombinations\obj\Debug\LottoCombinations.pdb
