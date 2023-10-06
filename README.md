@@ -1,0 +1,2 @@
+#Lotto-Combinations
+This is a mini-project that shows a simple example of how to create all the possible combinations of the lottery, 6 numbers from the range of numbers 1 to 37 and a strong number from the range of 1 to 7 (which is 16,273,488 possible combinations). The project uses recursion and backtracking to generate all combinations and saves them all in a text file. And relatively speaking, creating all the combinations is done quite quickly.
